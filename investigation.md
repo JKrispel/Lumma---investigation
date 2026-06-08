@@ -1,4 +1,4 @@
-<img width="2046" height="1040" alt="image" src="https://github.com/user-attachments/assets/bf7fa49b-28e5-4174-bee1-414edbf84dfd" />
+
 # Lumma---investigation
 
 SOC Analysis Case Study – Lumma Infostealer **Network Investigation**.
