@@ -1,4 +1,4 @@
-
+<img width="2046" height="1040" alt="image" src="https://github.com/user-attachments/assets/bf7fa49b-28e5-4174-bee1-414edbf84dfd" />
 # Lumma---investigation
 
 SOC Analysis Case Study – Lumma Infostealer **Network Investigation**.
@@ -62,4 +62,18 @@ Exercise provided by: https://www.malware-traffic-analysis.net/2026/01/31/index.
    
    <img width="1395" height="272" alt="tcp_stream" src="https://github.com/user-attachments/assets/f6df8304-762e-4ccd-b49c-abfb53a02945" />
 
+8. I also discovered immediately appearing fresh (DNS request just before) **suspicious domains** performing TLS Handshake Protocol:
+   
+ <img width="1023" height="520" alt="tls_handshakes" src="https://github.com/user-attachments/assets/da9fd4d3-edd5-47fe-af11-657b9fed690b" />
+
+ This may indicate these are **`C2 Redundancy / Domain Rotator`** type domains.
+ 
+ **VirusTotal results:**
+ 
+ <img width="600" height="188" alt="image" src="https://github.com/user-attachments/assets/5fe790b1-9273-4137-8d78-fee2e978e317" />
+ <img width="600" height="184" alt="image" src="https://github.com/user-attachments/assets/5ed468f7-f3d4-45be-808e-b742da1fc5d8" />
+
+
+
+   
 
